@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "18DBFAC5-0B03-4332-B474-CCE18D55175F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "218DA1F3-C1E8-4E84-A8FC-0D688D4B98B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartRate/ViewControllers/WeekVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "pulseAPI(date:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "218DA1F3-C1E8-4E84-A8FC-0D688D4B98B5 - dd86234ee4310964"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "218DA1F3-C1E8-4E84-A8FC-0D688D4B98B5 - 39b2b0f02dade052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "218DA1F3-C1E8-4E84-A8FC-0D688D4B98B5 - dd86234ee4310964"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1152">
+               </Location>
+               <Location
+                  uuid = "218DA1F3-C1E8-4E84-A8FC-0D688D4B98B5 - 39b2b0f02dade052"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDCEC425-F0EF-4747-B977-1F49B57C0278"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeartRate/ViewControllers/WeekVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "pulseAPI(date:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDCEC425-F0EF-4747-B977-1F49B57C0278 - dd86234ee43108c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "FDCEC425-F0EF-4747-B977-1F49B57C0278 - dd86234ee43108c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "FDCEC425-F0EF-4747-B977-1F49B57C0278 - dd86234ee43108c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "FDCEC425-F0EF-4747-B977-1F49B57C0278 - dd86234ee43108c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;HeartRate.PulseModel, Swift.Error&gt;) -&gt; () in HeartRate.WeekVC.pulseAPI(date: Swift.String) -&gt; ()"
+                  moduleName = "HeartRate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madhavan/Documents/HeartRate/HeartRate/ViewControllers/WeekVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
